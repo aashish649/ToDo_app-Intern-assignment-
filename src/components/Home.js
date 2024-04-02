@@ -67,8 +67,8 @@ const Home = () => {
             </div>
           )}
 
-          <div className="fixed bottom-8 left-1/2 transform -translate-x-1/2 flex items-center">
-            <div className="w-16 h-16 max-sm:w-14 max-sm:h-14 bg-white rounded-full cursor-pointer grid place-items-center">
+          <div className="fixed bottom-48 left-1/2 transform -translate-x-1/2 flex items-center">
+            <div className="w-12 h-12 max-sm:w-12 max-sm:h-12 bg-white rounded-full cursor-pointer grid place-items-center">
               <RxPlus className="text-4xl max-sm:text-3xl plusIcon" />
             </div>
             <button

@@ -37,7 +37,6 @@ const Greeting = () => {
       <div className="container mx-auto py-4 flex justify-between items-center">
         <div className="flex items-center">
           <h1 className="text-2xl font-bold"> {"To-Do-App{</>}"}</h1>{" "}
-          {/* Increased font size */}
         </div>
         <div className="text-left">
           <div className="text-sm">{greeting}</div>
